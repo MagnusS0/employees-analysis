@@ -1,6 +1,6 @@
 # Employee-Analysis
 <div class='tableauPlaceholder' id='viz1680351481981' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SQ&#47;SQL_Tableau_16774508929360&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SQL_Tableau_16774508929360&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;SQ&#47;SQL_Tableau_16774508929360&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
-\
+<br>
 This project analyzes employee data from the Employees Sample Database, a modified version of the original Employees Database that has been enhanced by 365 Data Science. It includes SQL queries that answer various questions about the data such as employee demographics, salary statistics, and department information. It also includes a visualization of the results made in Tableau.
 
 ## Files
@@ -24,7 +24,7 @@ The SQL code in 'employees_analysis.sql' extracts data from the employess_mod, p
 The visualization in Tableau shows the results of the analysis in a series of charts and graphs that allow users to explore the data and gain insights into the gender distribution and wage gap in the company.
 
 ## Usage
-To use this repository, you can download the file and run the SQL code in 'employees-analysis.sql' to extract and transform the data. You can also use the link to Tableau to explore the visualization.
+To use this repository, you can download the file and run the SQL code in 'employees-analysis.sql' to extract and transform the data. You can also use the link to Tableau to explore the visualization. The modefied database can be accesed through https://learn.365datascience.com/ and you will need to have MySQL installed or some other SQL interpreter. 
 
 ## Credits
 The Employees Sample Database used in this analysis was created by 365 Data Science. The original Employees Database was created by Fusheng Wang and Carlo Zaniolo of the UCLA Computer Science Department, and is available on GitHub at https://github.com/datacharmer/test_db.

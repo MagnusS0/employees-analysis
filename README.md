@@ -4,8 +4,8 @@
 This project analyzes employee data from the Employees Sample Database, a modified version of the original Employees Database that has been enhanced by 365 Data Science. It includes SQL queries that answer various questions about the data such as employee demographics, salary statistics, and department information. It also includes a visualization of the results made in Tableau.
 
 ## Files
-`employees-analysis.sql`: This file contains the SQL queries used to analyze the data.
-`README.md`: This file.
+- `employees-analysis.sql`: This file contains the SQL queries used to analyze the data.
+- `README.md`: This file.
 
 ## Data
 The data used in this analysis is the employees_mod Database, a modified version of the original Employees Database that has been enhanced by 365 Data Science. The database contains information about employees working at a fictional company, including their personal details, employment history, salaries, and job titles.

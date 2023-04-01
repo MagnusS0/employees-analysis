@@ -4,8 +4,8 @@
 This project analyzes employee data from the Employees Sample Database, a modified version of the original Employees Database that has been enhanced by 365 Data Science. It includes SQL queries that answer various questions about the data such as employee demographics, salary statistics, and department information. It also includes a visualization of the results made in Tableau.
 
 ## Files
-'employees_analysis.sql': This file contains the SQL queries used to analyze the data.
-'README.md': This file.
+`employees-analysis.sql`: This file contains the SQL queries used to analyze the data.
+`README.md`: This file.
 
 ## Data
 The data used in this analysis is the employees_mod Database, a modified version of the original Employees Database that has been enhanced by 365 Data Science. The database contains information about employees working at a fictional company, including their personal details, employment history, salaries, and job titles.
@@ -13,7 +13,7 @@ The data used in this analysis is the employees_mod Database, a modified version
 ![image](https://user-images.githubusercontent.com/97634880/229288132-98371be7-3d30-4cb0-baf6-c7a670dbaf00.png)
 
 ## Analysis
-The SQL code in 'employees_analysis.sql' extracts data from the employess_mod, performs some transformations and calculations using CASE, AVG, JOIN and COUNT statments. This generates tables that provide insights into employee demographics, departmental performance, and salary distribution. Some of the questions that can be answerd with the retrived data is:
+The SQL code in `employees-analysis.sql` extracts data from the employess_mod, performs some transformations and calculations using CASE, AVG, JOIN and COUNT statments. This generates tables that provide insights into employee demographics, departmental performance, and salary distribution. Some of the questions that can be answerd with the retrived data is:
 - What is the number of new hires from each year grouped by gender?
 - How many department managers where active each year by gender?
 - What is the average salary for each department by gender and year?
@@ -24,8 +24,8 @@ The SQL code in 'employees_analysis.sql' extracts data from the employess_mod, p
 The visualization in Tableau shows the results of the analysis in a series of charts and graphs that allow users to explore the data and gain insights into the gender distribution and wage gap in the company.
 
 ## Usage
-To use this repository, you can download the file and run the SQL code in 'employees-analysis.sql' to extract and transform the data. You can also use the link to Tableau to explore the visualization. The modefied database can be accesed through https://learn.365datascience.com/ and you will need to have MySQL installed or some other SQL interpreter. 
+To use this repository, you can download the file and run the SQL code in `employees-analysis.sql` to extract and transform the data. You can also use the link to Tableau to explore the visualization. The modefied database can be accesed through https://learn.365datascience.com/ and you will need to have MySQL installed or some other SQL interpreter. 
 
 ## Credits
-The Employees Sample Database used in this analysis was created by 365 Data Science. The original Employees Database was created by Fusheng Wang and Carlo Zaniolo of the UCLA Computer Science Department, and is available on GitHub at https://github.com/datacharmer/test_db.
+The Employees Sample modified Database used in this analysis was created by 365 Data Science. The original Employees Database is available on GitHub at https://github.com/datacharmer/test_db.
 
